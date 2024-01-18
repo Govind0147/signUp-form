@@ -1,0 +1,29 @@
+body{
+    background-color: pink;
+    color: black;
+}
+.container{
+    width: 60%;
+    height: auto;
+    background-color: white;
+    border-radius: 2rem;
+}
+input{
+    display: block;
+    line-height: 1.5rem;
+}
+label{
+    
+    align-items: start;
+    line-height: 40px;
+}
+button{
+    margin: 2% 0;
+    width: 60%;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: azure;
+}
+a{
+    text-decoration: none;
+}
